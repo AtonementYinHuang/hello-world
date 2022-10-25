@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T23:42:35.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="MBgsyS_74Nk57nkmDBb1" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T15:10:19.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="Y0gCGk2vK4Q2Rv-G4GiN" version="20.5.1" type="github" pages="2">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="1242" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,6 +126,35 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zXWK1FkWnpyQKkEVAc7r-1" value="微信测试账号平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="417" y="1140" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zXWK1FkWnpyQKkEVAc7r-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zXWK1FkWnpyQKkEVAc7r-1" target="zXWK1FkWnpyQKkEVAc7r-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zXWK1FkWnpyQKkEVAc7r-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zXWK1FkWnpyQKkEVAc7r-4" target="zXWK1FkWnpyQKkEVAc7r-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zXWK1FkWnpyQKkEVAc7r-4" value="脚本&lt;br&gt;（运行在PC或服务器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1140" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zXWK1FkWnpyQKkEVAc7r-5" value="天气API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zXWK1FkWnpyQKkEVAc7r-6" value="其他API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="809" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zXWK1FkWnpyQKkEVAc7r-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1140" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d_uj2CbsUfFuyFyikuU7" name="第 2 页">
+    <mxGraphModel dx="1056" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
